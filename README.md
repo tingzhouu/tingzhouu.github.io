@@ -2,5 +2,5 @@
 
 This repository serves to document my learning of HTML/CSS, where I create my own webpage.
 
-##Getting Started
+## Getting Started
 Simply click on the link: https://tingzhouu.github.io
