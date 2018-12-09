@@ -1,4 +1,4 @@
-# my-very-own-webpage!
+# My very own webpage
 
 This repository serves to document my learning of HTML/CSS, where I create my own webpage.
 
