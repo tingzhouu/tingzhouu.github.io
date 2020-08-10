@@ -1,4 +1,4 @@
-# Ting Zhou's Blog
+# [Ting Zhou's Blog](https://tingzhouu.github.io)
 
 I started this blog for 2 reasons:
 
