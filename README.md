@@ -1,6 +1,10 @@
-# My very own webpage
+# Ting Zhou's Blog
 
-This repository serves to document my learning of HTML/CSS, where I create my own webpage.
+I started this blog for 2 reasons:
 
-## Getting Started
-Simply click on the link: https://tingzhouu.github.io
+1. To write and share about my learnings.
+2. Get some experience on web development.
+
+This was created using [GatsbyJS](https://www.gatsbyjs.org/).
+
+Credits to [Dan Abramov](https://github.com/gaearon/overreacted.io) and [Kent C Dodds](https://github.com/kentcdodds/kentcdodds.com) where I referenced their blogs on how to implement certain features.
