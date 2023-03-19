@@ -2,7 +2,6 @@
 layout: post
 title: "TypeScript - Class Decorators"
 date: 2023-03-18 17:00:01 +0800
-categories: typescript decorators class-decorators
 ---
 
 TypeScript - Class Decorators

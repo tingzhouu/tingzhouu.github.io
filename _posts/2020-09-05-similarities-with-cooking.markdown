@@ -2,7 +2,6 @@
 layout: post
 title: "Similarities between Software Development and Cooking"
 date: 2020-09-05 17:00:01 +0800
-categories: jekyll update
 ---
 
 Why software engineers need to find the time and effort to continually improve themselves.

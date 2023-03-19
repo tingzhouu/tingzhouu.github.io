@@ -2,7 +2,6 @@
 layout: post
 title: "Letter to self"
 date: 2020-08-23 17:00:01 +0800
-categories: jekyll update
 ---
 
 A few months back, I wrote a letter to my past self on my first day at work.
