@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-03-19T17:39:10+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2023/03/19/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-03-19T17:00:01+08:00</published><updated>2023-03-19T17:00:01+08:00</updated><id>http://localhost:4000/jekyll/update/2023/03/19/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2023/03/19/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Similarities between Software Development and Cooking</title><link href="http://localhost:4000/jekyll/update/2020/09/05/similarities-with-cooking.html" rel="alternate" type="text/html" title="Similarities between Software Development and Cooking" /><published>2020-09-05T17:00:01+08:00</published><updated>2020-09-05T17:00:01+08:00</updated><id>http://localhost:4000/jekyll/update/2020/09/05/similarities-with-cooking</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/09/05/similarities-with-cooking.html">&lt;p&gt;Why software engineers need to find the time and effort to continually improve themselves.&lt;/p&gt;
+
+&lt;h1 id=&quot;starting-out&quot;&gt;Starting Out&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A chef cooks dishes. A software engineer builds features.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It takes time and effort for a chef to be proficient at cooking a dish. Before a software engineer can build a feature, the
+software engineer will need to understand the programming language well.&lt;/p&gt;
+
+&lt;p&gt;Features are like dishes. You get what you pay for, just like how we go for a cheap meal to fill our stomachs without expecting much.
+Ever used an app that is laggy and unintuitive? It could be intended. Sometimes organisations just need the app to work and
+don’t have the budget for an extremely smooth app.&lt;/p&gt;
+
+&lt;p&gt;If you just learnt how to cook, it would not be practical to try cooking a dish served by a 3 michelin-starred restaurant.
+A beginner at web development will face undesirable difficulties when trying to recreate Apple’s website.&lt;/p&gt;
+
+&lt;h1 id=&quot;initial-progress&quot;&gt;Initial Progress&lt;/h1&gt;
+
+&lt;p&gt;It would be more practical to start off with the basics such as chopping an onion or frying an omelette. Complicated dishes require
+mastery of basic cooking skills. Somes basics of a web developer would be html tags or css selectors.&lt;/p&gt;
+
+&lt;p&gt;After some time, you start to cook up a decent plate of fried rice. You start thinking of joining
+the Food &amp;amp; Beverage (F&amp;amp;B) industry as a chef. For a web developer, this would be something like a &lt;a href=&quot;https://tingzhouu.github.io/TinDog/&quot;&gt;landing page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./tindog_landing.png&quot; alt=&quot;A simple landing page&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;facing-reality&quot;&gt;Facing Reality&lt;/h1&gt;
+
+&lt;p&gt;You come to the most common question every potential F&amp;amp;B entrant would ask customers:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“How much would you pay for this?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Unfortunately, the answer at your current ability is “What about $2.50?”. That’s reality. If you want to charge $10 for a plate of fried rice that
+only contains rice and eggs, your fried rice needs to be as good as the one at Din Tai Fung. A web developer who can’t create websites
+that are intuitive and appealing won’t be able to charge much for the services provided.&lt;/p&gt;
+
+&lt;p&gt;At this point, the F&amp;amp;B establishment who hires you won’t be able to pay you a high salary. Why? You might ask. The F&amp;amp;B establishment can only
+charge $2.50 for every plate of fried rice they sell. If you want a high salary, you will need to work long hours because
+it is a volume game of cooking lots and lots of fried rice. For software engineers, that could mean getting a high salary because
+you take on more work where there aren’t much expectations on quality.&lt;/p&gt;
+
+&lt;h1 id=&quot;importance-of-career-capital&quot;&gt;Importance of Career Capital&lt;/h1&gt;
+
+&lt;p&gt;How can you increase the price that people will pay for your food? You can either improve the current quality, or learn how to cook other food that
+people are willing to pay a higher price for. If you chose a dish like simple fried noodles, you
+&lt;a href=&quot;http://ieatishootipost.sg/hai-kee-char-kway-teow-the-famous-one-from-queenstown-has-moved-here/&quot;&gt;won’t have much ability to charge higher prices&lt;/a&gt;.
+Likewise, a web developer who learns a framework with decreasing popularity will meet with lesser demand for such services.
+More importantly, the web developer must be proficient in the framework chosen. Being able to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;create-react-app&lt;/code&gt; to start a react project
+would not be sufficient.&lt;/p&gt;
+
+&lt;p&gt;This concept is termed as career capital by Cal Newport in his book &lt;a href=&quot;https://www.calnewport.com/books/so-good/&quot;&gt;So Good They Can’t Ignore You&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The traits that define great work are rare and valuable. Supply and demand says that if you want these traits you need rare and valuable
+skills to offer in return. Think of these rare and valuable skills you can offer as career capital.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;difficulties-in-building-career-capital&quot;&gt;Difficulties in Building Career Capital&lt;/h1&gt;
+
+&lt;p&gt;While this sounds simple, it is not easy. The next problem you face will be carving out time for learning and experimenting different foods after a long day of work in front of the stove.
+A software engineer might also be tired of looking at more code after having done it for the past 8 to 10 hours. What to do? Bills don’t pay themselves.
+At this point, you will want to start observing how you’re spending your time.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Are you so burnt out after work that you have no energy to do anything else?&lt;/li&gt;
+  &lt;li&gt;Are you repeating the same skill at work over and over again?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If your answers to the above questions are ‘Yes’, you might be trading time for money. While that is good for your bank account,
+it isn’t for your career capital account. A career capital account that is shallow and narrow could indicate unsustainability, for
+what will happen if the assets in your career capital account are no longer valued?&lt;/p&gt;
+
+&lt;h1 id=&quot;if-its-too-good-to-be-true-you-havent-found-the-catch&quot;&gt;If It’s Too Good to Be True, You Haven’t Found the Catch&lt;/h1&gt;
+
+&lt;p&gt;I come from an environment where starting salary creates quite a big hoo-ha. You could sense the envy when people hear of someone else
+securing a job with a 5-digit monthly salary for a fresh graduate. I have come to realise that there is a catch to it. It is the long hours,
+where you’re expected to respond and work even when you’re on leave. How is one able to engage in deliberate learning to accumulate
+more career capital after being drained from work and not having any extended periods of uninterrupted time?
+Before taking on that job offer for an attractive package, think of what it does to your career capital. Don’t forget that time too is a resource.&lt;/p&gt;
+
+&lt;p&gt;The converse is not always true. Taking on a job where you’re not required to commit as much time and effort doesn’t mean that your career
+capital account will grow on its own. Unlike a bank account which grows with interest income, your career capital account depreciates
+over time when you forget skills you’ve learnt. You still need to invest time to grow that career capital account.&lt;/p&gt;
+
+&lt;h1 id=&quot;the-ideal-conclusion&quot;&gt;The Ideal Conclusion&lt;/h1&gt;
+
+&lt;p&gt;With time and effort, you will eventually cook that plate of fried rice where people gladly queue an hour and pay $10 for it.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Why software engineers need to find the time and effort to continually improve themselves.</summary></entry><entry><title type="html">Letter to self</title><link href="http://localhost:4000/jekyll/update/2020/08/23/letter-to-self.html" rel="alternate" type="text/html" title="Letter to self" /><published>2020-08-23T17:00:01+08:00</published><updated>2020-08-23T17:00:01+08:00</updated><id>http://localhost:4000/jekyll/update/2020/08/23/letter-to-self</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/23/letter-to-self.html">&lt;p&gt;A few months back, I wrote a letter to my past self on my first day at work.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Dear Ting Zhou&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;How are you! I’m sure you must have had quite a day trying to install Xcode, Android Studio, and even getting the app to run on the simulator. You will soon find yourself to start disliking Macbook’s butterfly keyboard.&lt;/p&gt;
+
+&lt;p&gt;You’re probably feeling very unsure of yourself. The entire code sure looks like spaghetti and you’re wondering if you got yourself in the wrong place. After all, there were some who doubted your decision to leave. You couldn’t give a satisfactory answer as to why your life would be better in a startup. It could also be that you didn’t want to offend them by saying it. Here’s a sentence to sum up how you felt:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“You can’t game the system when working in a startup.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The coming year will be a very interesting one. Perhaps even the best year you’ve had in your life so far. You are going to do things which you’ll never imagine yourself being able to do. Creating a retirement calculator, designing an app, rebuilding the foundation of an app are some of these things. Sounds crazy right? You probably don’t understand what these things are about right now. Just don’t stop working hard and you’ll get there.&lt;/p&gt;
+
+&lt;p&gt;I might have made things sound a bit exciting, but life won’t be a bed of roses at a startup. Things change rapidly and you sometimes find yourself in high-pressure situations. That is actually where you will be forced to grow and learn the most. Let me list some of these things: a white-label project, breaking google sign in for Android, and sending notifications to all the users in production.&lt;/p&gt;
+
+&lt;p&gt;Let me share the one quality which will guide you through all these shaky situations. It’s you being consistent in your work and learning. Once you start learning about what makes an app good, you will try relentlessly to replicate those features. You will also keep questioning the status quo and improve it. While doing these day-in-day-out will not be easy, you will derive great satisfaction from it. So much satisfaction you sometimes find it surreal that you are being paid to do this.&lt;/p&gt;
+
+&lt;p&gt;The world is in chaos now. I could write more, but I am feeling fatigued and shall stop here. Even without this letter, you will do just fine.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Ting Zhou, from one year later&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;March 19 2020&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">A few months back, I wrote a letter to my past self on my first day at work.</summary></entry></feed>
