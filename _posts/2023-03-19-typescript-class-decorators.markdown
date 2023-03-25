@@ -8,11 +8,11 @@ TypeScript - Class Decorators
 
 # Introduction
 
-Class decorators provide the option to structure your code _differently_.
+Decorators provide the option to structure your code _differently_.
 
-What can be done in class decorators, can also be achieved with usual TypeScript code.
+What can be done with decorators, can also be achieved with usual TypeScript code.
 
-Those who have largely been using JavaScript or TypeScript only may find the syntax of class decorators to be foreign, and even confusing at times.
+Those who have largely been using JavaScript or TypeScript only may find the syntax of decorators to be foreign, and even confusing at times.
 
 There are several popular open-source projects that heavily use decorators. Having this knowledge will come in handy. Some examples are:
 
@@ -60,7 +60,8 @@ console.log(wagyu.breed); // prints 'wagyu'
 
 We will create a class decorator `Breed` that takes in a single parameter `breed`.
 
-Notice that this is declarative, i.e. we did not need to store a class variable and add a constructor, and could still get the breed.
+Notice that this is _declarative_. We did not need to store a class variable and add a constructor.
+Instead, we _declared_ the cow's breed when defining the class.
 
 ```typescript
 function Breed(breed: string): ClassDecorator {
