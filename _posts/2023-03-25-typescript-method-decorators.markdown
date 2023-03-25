@@ -81,7 +81,7 @@ function Retry(maxRetries: number) {
      * `descriptor.value` stores the method, which is `getStockPrice` in our example
      * Storing `descriptor.value` in a separate variable `originalMethod
      * because we need to modify `descriptor.value` with the retry logic
-    */
+     */
     const originalMethod = descriptor.value;
 
     descriptor.value = function (...args: any[]) {
@@ -99,7 +99,7 @@ function Retry(maxRetries: number) {
 }
 
 class StockPriceFetcher {
-  @Retry(3)
+  @Retry(3) // Use method decorator
   getStockPrice(ticker: string) {
     return this.getStockPriceFromServer(ticker);
   }
