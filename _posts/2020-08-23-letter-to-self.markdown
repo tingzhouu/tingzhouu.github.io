@@ -6,7 +6,7 @@ date: 2020-08-23 17:00:01 +0800
 
 A few months back, I wrote a letter to my past self on my first day at work.
 
-_Dear Ting Zhou_
+Dear Ting Zhou
 
 How are you! I'm sure you must have had quite a day trying to install Xcode, Android Studio, and even getting the app to run on the simulator. You will soon find yourself to start disliking Macbook's butterfly keyboard.
 
@@ -22,6 +22,6 @@ Let me share the one quality which will guide you through all these shaky situat
 
 The world is in chaos now. I could write more, but I am feeling fatigued and shall stop here. Even without this letter, you will do just fine.
 
-_Ting Zhou, from one year later_
+Ting Zhou, from one year later
 
-_March 19 2020_
+March 19 2020
