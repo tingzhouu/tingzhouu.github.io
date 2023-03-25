@@ -26,7 +26,7 @@ Let's try to model a cattle-farm with 2 breeds - Black Angus and Wagyu. We want 
 
 # Without class decorators
 
-We will create a class `Cow` having the class property `breed`. `BlackAngus` and `Wagyu` will be child classes of `Cow`.
+We create a class `Cow` having the class property `breed`. `BlackAngus` and `Wagyu` will be child classes of `Cow`.
 
 ```typescript
 class Cow {
@@ -58,7 +58,7 @@ console.log(wagyu.breed); // prints 'wagyu'
 
 # With class decorators
 
-We will create a class decorator `Breed` that takes in a single parameter `breed`.
+We create a class decorator `Breed` that takes in a single parameter `breed`.
 
 Notice that this is _declarative_. We did not need to store a class variable and add a constructor.
 Instead, we _declared_ the cow's breed when defining the class.
